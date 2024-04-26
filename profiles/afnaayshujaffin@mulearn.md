@@ -38,7 +38,7 @@ Hi, I'm Afna Ayshu Jaffin, a final-year CSE student pursuing my Bachelor's degre
 #### Career Plan:
 
 - My career plan is : get a software or AI ML based job --> gain experience and expertise --> take first steps build my own agriculture related business -->  ​“Try Again. Fail Again. Fail Better.” until I see success --> go on excelling
-- Immediate goal is to graduate B.Tech with an excellent GPA and to be placed on a company where I could gow.
+- Immediate goal is to graduate B.Tech with an excellent GPA and to be placed on a company where I could grow.
 - My long term goal is to be an entrepreneur.
 
 #### Thoughts on Kerala's Tech Ecosystem:
