@@ -1,148 +1,50 @@
-# IEEE LAUNCHPAD Job Fair
+# Afna Ayshu Jaffin 
 
+### About Me
 
+Hi, I'm Afna Ayshu Jaffin, a final-year CSE student pursuing my Bachelor's degree. With a strong passion for technology, I have actively participated in several hackathons, gaining hands-on experience in software development. I was awarded a special mention for GDG Cloud Kochi's AI Adapt Search competition on Kaggle, which further fueled my interest in the field of artificial intelligence. I possess a good grasp of the basics of programming languages such as C, C++, Python, and Java, and I'm currently learning React to develop my skills further.I am also a graphic designer. I use Abode Photoshop and Figma for the same. I am always on the lookout for opportunities to learn and grow in my field, and I believe that my enthusiasm and dedication make me a valuable asset to any project. Connect with me to explore exciting possibilities!
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                                              | Repo Link                                                      |
+|---------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| AquaMinder          | an IoT water quality device using Arduino Uno and Node MCU, incorporating pH, turbidity, and temperature sensors. Enables real-time remote monitoring foraccurate assessment.                                                                               
+| AgriBulletin        | A web platform for Krishi Bhavan authorities to manage notifications, schemes, and  complaints with an admin panel, sorted notifications, filterable schemes, and a complaint form.  | [Github repo link](https://github.com/afnaayshu/AgriBulletin_MiniProject)     
+| TechSow             | TechSow is an integrated crop and soil health monitoring system, featuring a mobile app with YOLO V5 deep learning for disease detection and a rover equipped with NPK and pH sensors, enabling farmers to optimize cultivation practices for sustainable and efficient agriculture. | [Github repo link](https://github.com/afnaayshu/TechSow-App)
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
 
 
+#### Highly Visible Technical Content:
 
+- I haven't created any highly visible Technical content. However I do have an YouTube channel and a Behance portfolio where I share my art and designs.
+🔗 [YouTube](https://www.youtube.com/channel/UCDCp06j7CslLj2bYErsLkvQ)
+🔗 [Behance](https://www.behance.net/18c600c4)
 
+#### Competitive Website Profiles:
 
+- I recieved a special mention in AI Adapt Search hosted on [Kaggle](https://www.kaggle.com/competitions/ai-adapt-search-1st-edition) by GDG Cloud Kochi. 
 
+#### Leadership and Influence:
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- I embarked on my leadership journey by joining the IEEE student branch executive committee (ExeCom) in my first year of college. I started as the electronics communication coordinator, where my responsibilities included creating, monitoring, and posting content for social media in a timely manner. After gaining experience in various design communities, I now hold the position of design mentor for the IEEE SB SJCET.
 
-#
+#### Networking:
 
+- Building on my IEEE experience, I actively networked by participating in events like IEDC summits and hackathons (GDGC WoW). My positive and friendly approach helped me connect with fellow participants. Leading design communities at TinkerHub and UIPath Academic Alliance further expanded my network across colleges, fostering valuable connections with like-minded peers.
+  
+#### Career Plan:
 
+- My career plan is : get a software or AI ML based job --> gain experience and expertise --> take first steps build my own agriculture related business -->  ​“Try Again. Fail Again. Fail Better.” until I see success --> go on excelling
+- Immediate goal is to graduate B.Tech with an excellent GPA and to be placed on a company where I could gow.
+- My long term goal is to be an entrepreneur.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-<div align="center">
-
-
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-02 at 3 13 45 PM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/cce9d139-a390-48a2-b5a8-9deb50c650e7">
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🚀 #ieee-launchpad
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
+- Kerala's tech startup ecosystem is poised for growth, fueled by a talented local workforce and a supportive government environment. To fully unlock this potential, fostering a culture of innovation and fostering collaboration between academia, industry, and government will be crucial.
 
 
 ---
+
